@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ainexzy
+- 👋 Hi, I’m aine_xzy
 - 👀 I’m interested in C language
 - 🌱 I’m currently learning C
 - 📫 How to reach me is aine_xzy@163.com
